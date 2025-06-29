@@ -65,6 +65,7 @@ The goal is to:
    - Save embeddings to:
      - `entity_embeddings.csv`
      - `relation_embeddings.csv`
+   - A set of example output is stored in 'Observations' folder
    - Show an **interactive Plotly visualization** of clustered entity embeddings
    - Run **evaluation metrics (Hits@10, MRR)**
    - Print an **explanation of a sample triple prediction**
