@@ -81,7 +81,7 @@ The goal is to:
 ---
 
 ### Notes
-- You can easily extend the code to 10,000 triples by using `cleaned_dbpedia_10000.nt`.
+- You can easily extend or compress the code to 10,000 triples or 500 triples by using `cleaned_dbpedia_10000.nt` or `cleaned_dbpedia_dataset2/3`.
 - Trained model is saved as `trained_transe_model.pth`.
 
 ---
